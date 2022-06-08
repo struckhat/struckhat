@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a sophomore at The University of Georgia studying Computer Systems Engineering.
+
 <!--
 **struckhat/struckhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
